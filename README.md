@@ -163,5 +163,5 @@ CALL registrar_venta(1, 2, 3);
 
 _______________________________________
 ## AUTORES:
-- Brayden POveda
+- Brayden Poveda
 - Eduardo Castellanos
