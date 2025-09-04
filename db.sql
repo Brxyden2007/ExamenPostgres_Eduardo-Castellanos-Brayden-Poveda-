@@ -70,3 +70,4 @@ CREATE TABLE IF NOT EXISTS historial_precios (
   cambiado_en TIMESTAMP NOT NULL DEFAULT NOW()
 );
 
+-- Ordenacion de tablas para que se vea mas certero, no se modifico nada, solo se ordenaron las tablas de forma correcta y a su vez, ejecutamos todo de una para asegurarnos que este bien
